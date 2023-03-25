@@ -1,5 +1,5 @@
 # statistics
-a set of statistical functions (Bernoulli distribution table, expected value and variance, sample mean, sample median and sample variance
+A set of statistical functions (Bernoulli distribution table, expected value and variance, sample mean, sample median and sample variance
 ## Bernoulli distribution table
 This program includes functions determining the Bernoulli distribution table for
 a certain number of trials and the probability of success in a single trial. 
